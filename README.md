@@ -1,16 +1,31 @@
-## Hi there 👋
+# Predstavitev sebe
+Ime mi je Jan Martelanc. Živim v Novi Gorici in obiskujem 3. letnik Elektrotehniške in računalniške šole. Učim se HTML, CSS, Java. V prihodnosti bi rad izdelal kakšen dober program iz Jave ali Pytona in ustvarjal dobre spletne strani 🧑‍💻.
 
-<!--
-**janmartelanc/janmartelanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Do sedaj sem se v šoli naučil 🎒:  
+  
+- Java
+  - osnove
+  - zanke
+  - metode
+  - tabele
+  - stringbuffer
+  - character
+- HTML
+  - osnovna struktura
+  - dodajanje slik in linkov
+  - tabele
+  - divi
+- CSS
+  - velikost in barva besedila
+  - background color
+  - margin/padding
+  - hover
+_________________________________________________________________________________  
+V prihodnosti bi rad znal tudi :  
+  
+- Javascript
+- Pyton 🐍
 
-Here are some ideas to get you started:
+Povezava do spletne strani šole :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[šola](https://ers.scng.si/)
